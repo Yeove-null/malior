@@ -13,7 +13,7 @@
 - Install Docker (required)
 - Install the 'malior' command
 ```bash
-wget -O - https://kkgithub.com/ChisBread/malior/raw/main/install.sh > /tmp/malior-install.sh && bash /tmp/malior-install.sh  && rm /tmp/malior-install.sh 
+wget -O - https://get.66a.zone/https://kkgithub.com/ChisBread/malior/raw/main/install.sh > /tmp/malior-install.sh && bash /tmp/malior-install.sh  && rm /tmp/malior-install.sh 
 ```
 - malior help
 ```
